@@ -5,4 +5,8 @@ Git is free software.
 第二次修改
 修改
 新分支
+<<<<<<< HEAD
 master 分支修改
+=======
+featurel分支修改的内容
+>>>>>>> featurel
